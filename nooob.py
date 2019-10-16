@@ -1,3 +1,3 @@
 while 1==1:
-    print("pars e nooooob!!!!!!!!")
+    print("Just esi is nooooob!!!!!!!!")
     
